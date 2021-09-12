@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "bismillah",
+    "password": null,
     "database": "db_toko_api_pub",
     "host": "127.0.0.1",
     "dialect": "mysql"
